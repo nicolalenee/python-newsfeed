@@ -16,11 +16,13 @@ A web application that allows users to create posts about technology related top
 * Jinja
 
 ## Installation & Requirements
-To run the application locally, the app can be initialized with the `python -m flask run` or `python3 -m flask run` command.  
-This app requires Python and PyMySQL to be run. 
+To run the application locally, first we have to activate the virtual environment with the following command at the root of the project:
+`. venv/bin/activate`  
+Next, the app can be initialized with the `python -m flask run` or `python3 -m flask run` command. 
+This app requires Python and MySQL to be installed to the machine to run. 
  
 
 ## Questions
-[Repository](https://github.com/nicolalenee/just-tech-news)   
-App was deployed using Heroku [Deployment](https://nicola-just-tech-news.herokuapp.com/)
+[Repository](https://github.com/nicolalenee/python-newsfeed)   
+App was deployed using Heroku [Deployment](https://technews-py.herokuapp.com/)
 
